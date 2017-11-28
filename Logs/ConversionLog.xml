@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="MyHomeProject_V13_SP1" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/31/2015 3:41:43 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/31/2015 3:41:43 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Reading information from previous project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/31/2015 3:41:54 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/31/2015 3:41:58 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:19 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1200"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:20 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:20 PM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC300"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:20 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:33 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1200".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:41 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:41 PM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC300".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:42 PM" Debug="false">
+    <Text>Check and Repair XRefLocations
+   FB100 [FB100] {2101302-101063}
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:69, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:78, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:84, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:103, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:194, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:198, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:218, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:75, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:84, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:87, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:90, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:91, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:93, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:105, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:109, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:200, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:204, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:266] was deleted: NetId:0, UId:224, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:73, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:82, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:85, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:88, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:89, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:91, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:103, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:107, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:198, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:202, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:265] was deleted: NetId:0, UId:222, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:264] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:264] was deleted: NetId:0, UId:87, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:264] was deleted: NetId:0, UId:89, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:264] was deleted: NetId:0, UId:101, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:85, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:86, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:87, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:92, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:99, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:111, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:202, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:206, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:263] was deleted: NetId:0, UId:226, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:262] was deleted: NetId:0, UId:79, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:262] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:262] was deleted: NetId:0, UId:85, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:262] was deleted: NetId:0, UId:97, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:67, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:75, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:76, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:82, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:95, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:101, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:192, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:196, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:261] was deleted: NetId:0, UId:216, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:65, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:73, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:74, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:75, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:79, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:80, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:93, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:99, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:190, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:194, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:260] was deleted: NetId:0, UId:214, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:71, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:73, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:79, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:80, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:86, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:91, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:105, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:196, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:200, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:259] was deleted: NetId:0, UId:220, Kind:None
+</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:43 PM" Debug="false">
+    <Text>Check and Repair XRefLocations
+   FB101 [FB101] {2101302-101555}
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:69, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:78, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:84, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:103, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:194, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:198, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:355] was deleted: NetId:0, UId:218, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:75, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:84, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:87, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:90, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:91, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:93, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:105, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:109, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:200, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:204, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:311] was deleted: NetId:0, UId:224, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:73, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:82, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:85, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:88, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:89, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:91, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:103, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:107, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:198, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:202, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:310] was deleted: NetId:0, UId:222, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:309] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:309] was deleted: NetId:0, UId:87, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:309] was deleted: NetId:0, UId:89, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:309] was deleted: NetId:0, UId:101, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:85, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:86, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:87, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:92, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:99, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:111, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:202, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:206, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:308] was deleted: NetId:0, UId:226, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:307] was deleted: NetId:0, UId:79, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:307] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:307] was deleted: NetId:0, UId:85, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:307] was deleted: NetId:0, UId:97, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:67, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:75, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:76, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:82, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:83, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:95, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:101, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:192, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:196, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:306] was deleted: NetId:0, UId:216, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:65, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:73, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:74, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:75, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:79, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:80, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:81, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:93, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:99, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:190, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:194, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:305] was deleted: NetId:0, UId:214, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:71, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:73, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:77, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:79, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:80, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:86, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:91, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:105, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:196, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:200, Kind:None
+      Success: R0020:XR:0011 BIS: Not needed XRefLocation at ident [RefId:304] was deleted: NetId:0, UId:220, Kind:None
+</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="1/31/2015 3:42:43 PM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/31/2015 3:42:50 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="1/31/2015 3:42:50 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Saving the upgraded project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="1/31/2015 3:42:51 PM">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Project 'MyHomeProject' was successfully upgraded and saved as project 'MyHomeProject_V13_SP1'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
